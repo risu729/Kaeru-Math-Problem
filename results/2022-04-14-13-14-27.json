@@ -1,0 +1,135 @@
+{
+  "settings": {
+    "a": [
+      1,
+      20
+    ],
+    "n": [
+      1
+    ],
+    "times": 10000
+  },
+  "createdTime": "2022-04-14-13-14-27",
+  "results": [
+    {
+      "a": 1,
+      "n": 1,
+      "experiment": 1.00000,
+      "formula": 1.00000
+    },
+    {
+      "a": 2,
+      "n": 1,
+      "experiment": 1.49980,
+      "formula": 1.50000
+    },
+    {
+      "a": 3,
+      "n": 1,
+      "experiment": 1.67230,
+      "formula": 1.66667
+    },
+    {
+      "a": 4,
+      "n": 1,
+      "experiment": 1.70520,
+      "formula": 1.70834
+    },
+    {
+      "a": 5,
+      "n": 1,
+      "experiment": 1.74250,
+      "formula": 1.71667
+    },
+    {
+      "a": 6,
+      "n": 1,
+      "experiment": 1.72560,
+      "formula": 1.71806
+    },
+    {
+      "a": 7,
+      "n": 1,
+      "experiment": 1.71910,
+      "formula": 1.71826
+    },
+    {
+      "a": 8,
+      "n": 1,
+      "experiment": 1.72620,
+      "formula": 1.71828
+    },
+    {
+      "a": 9,
+      "n": 1,
+      "experiment": 1.70710,
+      "formula": 1.71828
+    },
+    {
+      "a": 10,
+      "n": 1,
+      "experiment": 1.72100,
+      "formula": 1.71828
+    },
+    {
+      "a": 11,
+      "n": 1,
+      "experiment": 1.70710,
+      "formula": 1.71828
+    },
+    {
+      "a": 12,
+      "n": 1,
+      "experiment": 1.70540,
+      "formula": 1.71828
+    },
+    {
+      "a": 13,
+      "n": 1,
+      "experiment": 1.71250,
+      "formula": 1.71828
+    },
+    {
+      "a": 14,
+      "n": 1,
+      "experiment": 1.72430,
+      "formula": 1.71828
+    },
+    {
+      "a": 15,
+      "n": 1,
+      "experiment": 1.72500,
+      "formula": 1.71828
+    },
+    {
+      "a": 16,
+      "n": 1,
+      "experiment": 1.72560,
+      "formula": 1.71828
+    },
+    {
+      "a": 17,
+      "n": 1,
+      "experiment": 1.71430,
+      "formula": 1.71828
+    },
+    {
+      "a": 18,
+      "n": 1,
+      "experiment": 1.69850,
+      "formula": 1.71828
+    },
+    {
+      "a": 19,
+      "n": 1,
+      "experiment": 1.71110,
+      "formula": 1.71828
+    },
+    {
+      "a": 20,
+      "n": 1,
+      "experiment": 1.71620,
+      "formula": 1.71828
+    }
+  ]
+}
