@@ -11,3 +11,6 @@ Settings.jsonを編集する。<br>
 a,n,timesは全て正の自然数を指定する。<br>
 timesは試行回数である。<br>
 また、a,nはリストとして指定し、その要素数は1か2(最小値と最大値を指定、その間全てに対して実行する。)にする。<br>
+
+### Replit <br>
+https://replit.com/@risumcbe/Kaeru-Math-Problem <br>
