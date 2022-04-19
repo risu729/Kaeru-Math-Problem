@@ -6,9 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Formula {
-  // n = 1 の場合のメモ
-  private static Map<Integer, BigDecimal> memo = new HashMap<>();
-
+  
   public static BigDecimal calc(final int a, final int n) {
     if (n == 1) {
       return hypo1(a);
@@ -17,7 +15,9 @@ public class Formula {
     }
   }
 
-  // in case n = 1
+  // when n = 1
+  private static Map<Integer, BigDecimal> memo = new HashMap<>();
+  
   private static BigDecimal hypo1(final int a) {
     if (memo.containsKey(a)) {
       return memo.get(a);
@@ -37,4 +37,6 @@ public class Formula {
       return value;
     }
   }
+
+  //private static BigDecimal hypo2
 }
