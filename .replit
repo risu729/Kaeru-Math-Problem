@@ -2,7 +2,6 @@ compile = "javac -classpath .:target/dependency/* -d . $(find . -type f -name '*
 run = ["java", "-classpath", ".:target/dependency/*", "Main"]
 
 entrypoint = "Main.java"
-hidden = ["**/*.class"]
 
 [packager]
 language = "java"
