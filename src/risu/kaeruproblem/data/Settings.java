@@ -9,7 +9,7 @@ public class Settings {
   private int[] n;
   private int times;
 
-  public void checkFormat() throws IllegalStateException {
+  public void checkFormat() {
     if (a.length == 0 || a.length > 2 || n.length == 0 || n.length > 2) {
       var msg = "Some arrays in Settings.json have 0 or more than 2 elements.";
       throw new IllegalStateException(msg);
