@@ -1,5 +1,5 @@
 compile = "javac -classpath src:target/dependency/* -d bin $(find . -type f -name '*.java')"
-run = ["java", "-classpath", ".:target/dependency/*", "Main"]
+run = ["java", "-classpath", "bin:target/dependency/*", "Main"]
 
 entrypoint = "Main.java"
 
