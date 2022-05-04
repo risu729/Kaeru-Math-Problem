@@ -1,4 +1,4 @@
-package risu.kaeruproblem.data;
+package risu729.kaeruproblem.data;
 
 import java.math.BigDecimal;
 

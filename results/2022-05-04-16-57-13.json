@@ -1,0 +1,20 @@
+{
+  "settings": {
+    "a": [
+      3
+    ],
+    "n": [
+      2
+    ],
+    "times": 10000
+  },
+  "createdTime": "2022-05-04-16-57-13",
+  "results": [
+    {
+      "a": 3,
+      "n": 2,
+      "experiment": 2.34150,
+      "formula": 0
+    }
+  ]
+}

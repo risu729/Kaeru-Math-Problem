@@ -1,4 +1,4 @@
-package risu.util;
+package risu729.util;
 
 import java.time.Duration;
 import java.time.LocalDateTime;

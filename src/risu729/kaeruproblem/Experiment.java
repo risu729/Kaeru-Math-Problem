@@ -1,4 +1,4 @@
-package risu.kaeruproblem;
+package risu729.kaeruproblem;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

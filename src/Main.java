@@ -7,12 +7,12 @@ import java.nio.file.Path;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
-import risu.kaeruproblem.data.Output;
-import risu.kaeruproblem.data.Result;
-import risu.kaeruproblem.data.Settings;
-import risu.kaeruproblem.Experiment;
-import risu.kaeruproblem.Formula;
-import risu.util.ProcessingTime;
+import risu729.kaeruproblem.data.Output;
+import risu729.kaeruproblem.data.Result;
+import risu729.kaeruproblem.data.Settings;
+import risu729.kaeruproblem.Experiment;
+import risu729.kaeruproblem.Formula;
+import risu729.util.ProcessingTime;
 
 class Main {
   public static void main(String[] args) {
